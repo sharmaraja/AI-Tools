@@ -1,6 +1,0 @@
-streamlit
-mistralai
-sentence-transformers
-faiss-cpu
-pypdf
-numpy
